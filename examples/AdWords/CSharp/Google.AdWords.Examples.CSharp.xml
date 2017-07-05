@@ -11823,9 +11823,9 @@
             </summary>
         </member>
         <member name="M:Google.Api.Ads.AdWords.Examples.CSharp.v201705.GetCampaigns.Main(System.String[])">
-            <summary>
-            Main method, to run this code example as a standalone application.
-            </summary>
+             <summary>
+             Main method, to run this code example as a standalone application.
+             </summary>
             <param name="args">The command line arguments.</param>
         </member>
         <member name="P:Google.Api.Ads.AdWords.Examples.CSharp.v201705.GetCampaigns.Description">

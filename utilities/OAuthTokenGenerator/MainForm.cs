@@ -143,5 +143,10 @@ namespace Google.Api.Ads.Common.Utilities.OAuthTokenGenerator {
       webServer.Stop();
       base.OnClosing(e);
     }
-  }
+
+        private void txtClientID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

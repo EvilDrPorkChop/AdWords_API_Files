@@ -28,7 +28,7 @@ namespace Google.Api.Ads.AdWords.Examples.CSharp.v201705 {
     /// <summary>
     /// Main method, to run this code example as a standalone application.
     /// </summary>
-    /// <param name="args">The command line arguments.</param>
+    ///<param name="args">The command line arguments.</param>
     public static void Main(string[] args) {
       GetCampaigns codeExample = new GetCampaigns();
       Console.WriteLine(codeExample.Description);
